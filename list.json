@@ -1,0 +1,2447 @@
+[
+    {
+        "id": "829e29ba-2888-4e49-bbae-bf0f7ef8af91",
+        "product": "Zioła",
+        "category": "warzywa"
+    },
+    {
+        "id": "f50d7bf0-0f75-4976-8424-365578b3c750",
+        "product": "Parowki Berl300g",
+        "category": "mieso"
+    },
+    {
+        "id": "d3148953-049b-4420-85b4-1500586f1d4b",
+        "product": "Łosoś atl fil kg",
+        "category": "ryby"
+    },
+    {
+        "id": "cfa98f57-e8b6-40ff-bf84-eca8b018fbb5",
+        "product": "JajaGoBio 9szt",
+        "category": "nabial"
+    },
+    {
+        "id": "bda6214e-3f2e-4a0f-a847-ebed2e9d90a6",
+        "product": "WiśnieDryINSpi680g",
+        "category": "przetworzone"
+    },
+    {
+        "id": "71c24b96-20d9-41ea-92dd-69c53e678173",
+        "product": "Ogórek grunt luz",
+        "category": "warzywa"
+    },
+    {
+        "id": "cfe78059-a793-4d51-b8e2-55b90feb3749",
+        "product": "Win Jas Bez Luz",
+        "category": "owoce"
+    },
+    {
+        "id": "261ef27b-ea62-4c3c-9d42-a99f34e0e5d4",
+        "product": "Pom Paprycz Luz",
+        "category": "warzywa"
+    },
+    {
+        "id": "a1325850-64f8-474a-a545-cc2e6697af38",
+        "product": "Sałata MasłowDonSzt",
+        "category": "warzywa"
+    },
+    {
+        "id": "26d4efd0-67c8-409f-a8b3-73e1519d83ac",
+        "product": "Sałata DonSztMix",
+        "category": "warzywa"
+    },
+    {
+        "id": "99a63449-e0e4-4e90-89c1-74ff05bfca71",
+        "product": "Wino",
+        "category": "alkohole"
+    },
+    {
+        "id": "6bb0069a-560a-4391-9c13-6950a47fb941",
+        "product": "CRUNCHIPS CUT 136g",
+        "category": "przetworzone"
+    },
+    {
+        "id": "5420a43c-435f-49fe-a23f-92a5884e4359",
+        "product": "Olej Kujawski 1l",
+        "category": "tluszcze"
+    },
+    {
+        "id": "6e4735a6-3aa0-46c3-8007-772286d2f5f0",
+        "product": "Sok Pomarańcz 1l",
+        "category": "napoje"
+    },
+    {
+        "id": "90271516-621e-4356-bb16-c0fcf08215a5",
+        "product": "SokTymbMultiwi 1L",
+        "category": "napoje"
+    },
+    {
+        "id": "0f9ad77c-9a60-47ed-bebb-011eaf02d815",
+        "product": "SokTymbarkJabłko1l",
+        "category": "napoje"
+    },
+    {
+        "id": "3d8283ea-642b-4e2f-ae95-5c5b7d4a7926",
+        "product": "SokTymbMultiwi 1L",
+        "category": "napoje"
+    },
+    {
+        "id": "3031e087-8546-4933-9a4e-76d27dea634b",
+        "product": "WodaGaz Muszy1,5l",
+        "category": "woda"
+    },
+    {
+        "id": "3b0bfc50-46c4-46ad-ba8d-2d41bf8f8985",
+        "product": "Fasola NS400 240g",
+        "category": "przetworzone"
+    },
+    {
+        "id": "33bd314c-2fe5-4520-bf15-dd39dc8362f7",
+        "product": "Parowki Berl300g",
+        "category": "mieso"
+    },
+    {
+        "id": "ee504d1e-0817-48a9-bd7f-b30bdbfad159",
+        "product": "Ser Moz Gal100g 195g",
+        "category": "nabial"
+    },
+    {
+        "id": "d5c218f8-2f80-4d92-b732-99c1652c093b",
+        "product": "Włoszczyzna 650g",
+        "category": "warzywa"
+    },
+    {
+        "id": "b3874647-8530-40c2-b1d4-d264c63950d2",
+        "product": "Polędw wp kg GV",
+        "category": "mieso"
+    },
+    {
+        "id": "deda095a-8fe8-4858-8025-41d2884560f7",
+        "product": "Ziemniaki Wczesne",
+        "category": "warzywa"
+    },
+    {
+        "id": "e16af4f3-caa8-4594-b6b6-00d4c69c54d3",
+        "product": "BurCzerwoneLuz",
+        "category": "warzywa"
+    },
+    {
+        "id": "73a8d5a5-dad0-4053-869d-ea07b583fac3",
+        "product": "Marchew Młoda Pęcz",
+        "category": "warzywa"
+    },
+    {
+        "id": "44ffd4e6-2f6a-49e5-be27-bf254df48165",
+        "product": "Marchew Młoda Pęcz",
+        "category": "warzywa"
+    },
+    {
+        "id": "f9643b9a-11aa-4e4e-95fe-49ad8b7d8253",
+        "product": "Ogórek grunt luz",
+        "category": "warzywa"
+    },
+    {
+        "id": "727f7100-3ab4-4110-8cf5-ab9e45ad152d",
+        "product": "Pomarańcze Des Luz",
+        "category": "owoce"
+    },
+    {
+        "id": "365885fb-fdf6-4115-adf0-2412f5f8601f",
+        "product": "Cytryna luz",
+        "category": "owoce"
+    },
+    {
+        "id": "222f6ddd-a61f-495b-92a0-1eeec8e9773b",
+        "product": "Rzodkiewka szt",
+        "category": "warzywa"
+    },
+    {
+        "id": "0d587333-45e4-40e8-9a0d-26de5dddc812",
+        "product": "Rzodkiewka szt",
+        "category": "warzywa"
+    },
+    {
+        "id": "94a6035b-6bf9-461f-adee-2323dff875c1",
+        "product": "Jogurt Nat 190g",
+        "category": "nabial"
+    },
+    {
+        "id": "d151b25c-b24c-4b48-87eb-150f9ec5976f",
+        "product": "Pom Paprycz Luz",
+        "category": "warzywa"
+    },
+    {
+        "id": "990fbbf2-d6ac-4ec3-8161-286959a01cb1",
+        "product": "Ciastk MiniLeib100g",
+        "category": "slodycze"
+    },
+    {
+        "id": "530a0948-1676-4da9-93df-68389709d57a",
+        "product": "RęcznQueenTotalAbs",
+        "category": "chemia"
+    },
+    {
+        "id": "dac71ce2-624f-4fe5-b441-f301e3b1e9fc",
+        "product": "JajaGoBio 9szt",
+        "category": "nabial"
+    },
+    {
+        "id": "6f4d7d90-2484-4085-ae09-0e1bb8f81f68",
+        "product": "PapierQueen 8rolek",
+        "category": "chemia"
+    },
+    {
+        "id": "347ed1b1-629e-4b46-9744-f2d8e45ddbb2",
+        "product": "NAPOJ ZYWIEC 330ml",
+        "category": "napoje"
+    },
+    {
+        "id": "457370f0-a407-4c6d-8ee7-d2b420f0d7af",
+        "product": "LODY DUMLE 80ml",
+        "category": "slodycze"
+    },
+    {
+        "id": "9c130e60-fcf5-4127-9b35-dce9ee9435c6",
+        "product": "LODY MAGNUM 85ml",
+        "category": "slodycze"
+    },
+    {
+        "id": "8d71a92c-0f7f-4ef6-965f-bcfa201c54d0",
+        "product": "CZEKOLADA Z NADZ T",
+        "category": "slodycze"
+    },
+    {
+        "id": "6dee8441-afa9-487a-8aaf-eb7d062b50af",
+        "product": "WodaNGaz Muszy1,51",
+        "category": "woda"
+    },
+    {
+        "id": "d878b476-e90b-4604-8cb6-357a2d6958bb",
+        "product": "WodaGaz Muszy1,51",
+        "category": "woda"
+    },
+    {
+        "id": "508f7aa1-ced3-4ffa-a9bb-96b0d8a2bb37",
+        "product": "Mleko MleczDol 11",
+        "category": "nabial"
+    },
+    {
+        "id": "dcf26457-8daa-4dfd-a458-6452d6604537",
+        "product": "MusztCurryKam185 g",
+        "category": "przetworzone"
+    },
+    {
+        "id": "41a47467-fd4e-416d-b3f1-0cd5f8bcb3d9",
+        "product": "JogPitFruPure250g",
+        "category": "nabial"
+    },
+    {
+        "id": "0c2d31d7-9d26-4ce7-878f-00a7fe2ad053",
+        "product": "JogSkyrPitn250g.",
+        "category": "nabial"
+    },
+    {
+        "id": "9b06c840-1a2e-44f2-a3dd-bbaa9bb3a69a",
+        "product": "CzekoNussNerkMigd18",
+        "category": "slodycze"
+    },
+    {
+        "id": "213d0117-91b4-46ab-855e-ce00f33a0f08",
+        "product": "Łosoś atl fil kg",
+        "category": "ryby"
+    },
+    {
+        "id": "03427c2f-8931-47b1-8f9b-a73c79659b72",
+        "product": "Parowki Berl300g",
+        "category": "mieso"
+    },
+    {
+        "id": "87b27355-da44-4efa-b70d-20bb516a1c22",
+        "product": "RyżJaśminowy4x100g",
+        "category": "sypkie"
+    },
+    {
+        "id": "3f68359b-4bbc-4053-ae7a-4dea70243754",
+        "product": "OgórekSzkLuz",
+        "category": "warzywa"
+    },
+    {
+        "id": "2459cabf-43e5-4dfa-a9fa-042353a15295",
+        "product": "Rzodkiewka szt",
+        "category": "warzywa"
+    },
+    {
+        "id": "62ae09d0-1cf1-4989-9f36-e0b179b60e1f",
+        "product": "Cytryna luz",
+        "category": "owoce"
+    },
+    {
+        "id": "3ed7f9a0-5bd4-437f-857e-d376807a81ad",
+        "product": "Banan PremiumLuz",
+        "category": "owoce"
+    },
+    {
+        "id": "dcea2f57-7bb8-4bd8-a5ab-ca2b4d6f521b",
+        "product": "BorowkaAmeryk",
+        "category": "owoce"
+    },
+    {
+        "id": "4ad8bd61-22f9-4e63-8ae4-b83484c1f3d2",
+        "product": "Cebula dymka szt",
+        "category": "warzywa"
+    },
+    {
+        "id": "4429c4e7-de98-4a80-ba40-d81fce70acb1",
+        "product": "Cebula dymka szt",
+        "category": "warzywa"
+    },
+    {
+        "id": "dcb45f19-45ca-4b95-a3ff-276651d8855a",
+        "product": "SałPocketVF2x50g",
+        "category": "warzywa"
+    },
+    {
+        "id": "8f516dc8-d4fd-49a4-b409-b017eb3df161",
+        "product": "Pom Paprycz Luz",
+        "category": "warzywa"
+    },
+    {
+        "id": "91aa8788-18d6-4775-9ce7-617e02ce461a",
+        "product": "PłatkiChocapic250g",
+        "category": "slodycze"
+    },
+    {
+        "id": "93b7162a-5a2b-46d3-a7bd-c1a76571db8f",
+        "product": "PodpaFeminUltrPure1.",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "365e1108-198f-4f15-9439-3b78c14b08be",
+        "product": "Podpa FeminUltrPure1.",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "cc5d9b72-bd5e-44f1-bd77-a3c3ebdf4122",
+        "product": "ChustDelikat X150",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "7fc95f11-3318-4f15-8a7f-a2950d33bcab",
+        "product": "ChustDelikat X150",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "d0cd74c3-5671-4c52-a83a-f3f6ac1c7283",
+        "product": "LodMariRożMix120ml",
+        "category": "slodycze"
+    },
+    {
+        "id": "1abbd67b-1dba-4c54-a5f4-54e8e832032e",
+        "product": "Rożek MariKakOrz150r",
+        "category": "slodycze"
+    },
+    {
+        "id": "fc33568c-fac1-4bfb-a7f1-66be0f842f83",
+        "product": "RożekMarl Truska150n",
+        "category": "slodycze"
+    },
+    {
+        "id": "ec13d339-9475-4e3b-9be5-403f8efc8826",
+        "product": "RożekMarl Truska150n",
+        "category": "slodycze"
+    },
+    {
+        "id": "0d8ea78a-f13e-4337-8b9a-bf65c96ded7d",
+        "product": "Sałata MasłowDonSzt",
+        "category": "warzywa"
+    },
+    {
+        "id": "441fe05d-85e5-4280-b31e-b3ce3a7f8f29",
+        "product": "Bu SZNYTKA 60g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "d81d043e-fe42-4d4f-a4e6-0dbfcdc4a5a9",
+        "product": "Bu CHIA 90g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "98266d12-4451-404c-b9c6-4b348d21b00d",
+        "product": "SANTOS średnio-ciemno palony 250g",
+        "category": "kawa"
+    },
+    {
+        "id": "239c1e4c-2990-4f1b-b6e8-9fcd9b3c933b",
+        "product": "BRAZYLIA SANTOS jasno palony 250g",
+        "category": "kawa"
+    },
+    {
+        "id": "ac866765-28bc-42bf-a39f-7c5346f12a9e",
+        "product": "India Malabar 250g",
+        "category": "kawa"
+    },
+    {
+        "id": "7a9c803b-c127-433a-9ff4-98368d9c0c2c",
+        "product": "Brazylia Cerrado Chapado De Ferro 250g",
+        "category": "kawa"
+    },
+    {
+        "id": "c336d922-f9ef-4a22-a008-f7d0474d3296",
+        "product": "WAFEL MEGA GRZESKI",
+        "category": "slodycze"
+    },
+    {
+        "id": "07525580-b88c-46d8-9711-e21eb5a49646",
+        "product": "Bu CHIA 90g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "4a812632-f805-4f42-90a2-b63b6a3a2484",
+        "product": "Bu SZNYTKA 60g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "69a11035-5150-4002-a083-64c55440aefe",
+        "product": "Bu SZNYTKA 60g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "eee6b0f3-015f-450c-8ca2-7f5bb21e9ae1",
+        "product": "ISANA HYDROŻELOWE",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "56444c0a-ce2d-42b8-a970-01b4dd4a9a69",
+        "product": "ISANA HYDROŻELOWE",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "5800d04c-4b5b-44a7-b30b-779633e0ffc3",
+        "product": "ONLYBIO SZAMPON",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "1097d112-d45f-47d1-a05d-30a15db53c6d",
+        "product": "NEUTROGENA FN KRE",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "e7ee0f4f-f7cc-4e2b-bf61-479182cc8d7e",
+        "product": "ONLYBIO MASKA DO",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "e645b3d5-8bc3-49f7-a876-0cabef625851",
+        "product": "Kebab Roll Standard z mięsem mieszanym/wołowiną",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "3a67ace2-615c-4f95-8e0e-1ff53a12e326",
+        "product": "0_116Opakowanie",
+        "category": "inne"
+    },
+    {
+        "id": "9e0869b4-5feb-44f3-8227-029aeee6d9cd",
+        "product": "KAWA CZARNA 200ml",
+        "category": "kawa"
+    },
+    {
+        "id": "c8e9d4e0-94fe-4ae7-8816-509810866912",
+        "product": "DesMonte150g",
+        "category": "slodycze"
+    },
+    {
+        "id": "69ba134e-c151-45c3-8dce-c0c2ad184502",
+        "product": "BorowkaAmeryk",
+        "category": "owoce"
+    },
+    {
+        "id": "ad3f173c-90ad-4dae-b531-035552abd889",
+        "product": "Sasz Khaki HM",
+        "category": "odziez"
+    },
+    {
+        "id": "e31685fe-8564-4411-adef-f23bba8ea5d2",
+        "product": "SokTymbMultiwi 1L",
+        "category": "napoje"
+    },
+    {
+        "id": "f8a2345f-c521-4974-9323-5b9dae14d95c",
+        "product": "SokTymbarkjabłkoll",
+        "category": "napoje"
+    },
+    {
+        "id": "5912e829-c16c-4787-aaa9-ecda3949651e",
+        "product": "Sok TymbMultiwi 1L",
+        "category": "napoje"
+    },
+    {
+        "id": "d639f850-c772-4b55-b273-08f5d14bf389",
+        "product": "Nap Red Bull 0,251",
+        "category": "napoje"
+    },
+    {
+        "id": "fe6eb385-ad4b-4920-a030-2bb3ad0c0dd0",
+        "product": "SokTymbarkJabłkoll",
+        "category": "napoje"
+    },
+    {
+        "id": "54ab90b7-61f5-4e22-9f44-f5ecbb299d64",
+        "product": "Torba T-SHIRT",
+        "category": "inne"
+    },
+    {
+        "id": "a264e5a3-e0a0-4fcb-8210-cb0f77b1ba88",
+        "product": "Kebab Roll Standard z mięsem mieszanym/wołowiną",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "78270f94-8f15-4068-ba9b-3210175bd8e1",
+        "product": "0_116Opakowanie",
+        "category": "inne"
+    },
+    {
+        "id": "4230f9a2-cd7a-47c3-8a72-34c3554d4894",
+        "product": "Rodowita Woda min.",
+        "category": "woda"
+    },
+    {
+        "id": "580ca981-f84a-4c90-930f-e0a61242dd40",
+        "product": "ŻelAloes.wielof.",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "6dee6ee4-4f63-42d4-9dd6-8867a0f8df0d",
+        "product": "Smoothie jogurtowe",
+        "category": "napoje"
+    },
+    {
+        "id": "63263c63-c6c2-476c-8cdc-a7ef84d5e3d7",
+        "product": "Baton Keto",
+        "category": "slodycze"
+    },
+    {
+        "id": "d0613d34-0ad9-4e88-8e68-f73958a84713",
+        "product": "SalPocketVF2x50g",
+        "category": "warzywa"
+    },
+    {
+        "id": "932e733d-dc52-4981-8c39-6f6f87b6c44a",
+        "product": "Rzodkiewka szt",
+        "category": "warzywa"
+    },
+    {
+        "id": "20baba00-9bc1-4fce-bf23-5d9f6f7a68a8",
+        "product": "Papryka Słodka Czerw",
+        "category": "warzywa"
+    },
+    {
+        "id": "14f29eb1-4fc1-4b10-94d7-b7e75ab9f513",
+        "product": "Pomid gał luz",
+        "category": "warzywa"
+    },
+    {
+        "id": "ad43b297-adc3-494f-ab47-0d982faf6447",
+        "product": "Rogal Wyborny 100g",
+        "category": "slodycze"
+    },
+    {
+        "id": "bee6eb42-2e04-4fff-a453-857df5675561",
+        "product": "LodMarl RożMix120ml",
+        "category": "slodycze"
+    },
+    {
+        "id": "ac419bcd-a645-4e9f-8d67-fe6826bc1096",
+        "product": "LodMari RożMix120ml",
+        "category": "slodycze"
+    },
+    {
+        "id": "d5c52832-3698-4525-be0a-7f3d5726954d",
+        "product": "Rożek MarlKakOrz150r",
+        "category": "slodycze"
+    },
+    {
+        "id": "7b17f911-a6eb-4b6c-8edf-464f3b6f1f1f",
+        "product": "LodMarlRożMix120ml",
+        "category": "slodycze"
+    },
+    {
+        "id": "5394486d-a8dc-4f3b-a6e4-946e5cca69f7",
+        "product": "LodMarlRożMix120ml",
+        "category": "slodycze"
+    },
+    {
+        "id": "33b54123-8ecc-4efe-b1cc-70dbf6818912",
+        "product": "Rożek MarlKakOrz150r",
+        "category": "slodycze"
+    },
+    {
+        "id": "ef90fa05-ca3b-4e3f-9d18-c3ccc8e968af",
+        "product": "Rożek MarlKakOrz150r",
+        "category": "slodycze"
+    },
+    {
+        "id": "283050f5-6fdb-4227-8f9a-c6bfffa46fd6",
+        "product": "Rożek MarlKakOrz150r",
+        "category": "slodycze"
+    },
+    {
+        "id": "0d26540d-8c72-4f66-85dc-6e80140b5639",
+        "product": "Bu SZNYTKA 60g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "14927061-b2c2-416d-975a-fa48d7de6993",
+        "product": "WAF KUK CZEK",
+        "category": "slodycze"
+    },
+    {
+        "id": "ebf1b300-4364-4db3-ae26-c37a448c0d83",
+        "product": "JOGURT JOVI 350g",
+        "category": "nabial"
+    },
+    {
+        "id": "c595b63e-377f-41e9-8eeb-efb79ce97957",
+        "product": "Kebab Roll Standard z mięsem mieszanym/wołowiną",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "4a75af4b-86ff-4fb7-b5f7-e2c0a5e43f74",
+        "product": "1_22Frytki Steakhouse 150g",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "d5632383-58d4-4b74-bfe3-333d16029d6f",
+        "product": "0_116Opakowanie",
+        "category": "inne"
+    },
+    {
+        "id": "932bdcd8-2ee3-4939-b5fc-7add535cbbbd",
+        "product": "GUMA MAMBA KOSTKA",
+        "category": "slodycze"
+    },
+    {
+        "id": "fe7cefed-f21c-4f1b-9e04-a63dd47bb83d",
+        "product": "CZEK MIL BU CO 97g",
+        "category": "slodycze"
+    },
+    {
+        "id": "c9be5913-6937-4d26-935a-04aa6f5f87c0",
+        "product": "TORBA RECYKLING",
+        "category": "inne"
+    },
+    {
+        "id": "4240a167-5e76-4907-aebe-44686769614e",
+        "product": "ZUPA POMIDOROWA Z",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "5ddb1c7b-4969-42e7-9067-5a4d2dde96fc",
+        "product": "SEREK WIEJSKI 150",
+        "category": "nabial"
+    },
+    {
+        "id": "6c42f161-e89d-41d9-8e44-df7fcf54b936",
+        "product": "0,3l Ka.Mleko.",
+        "category": "kawa"
+    },
+    {
+        "id": "61a0faf0-ee19-4efa-8b91-9e68545d8dd6",
+        "product": "MIX FINUU KL. 200g",
+        "category": "tluszcze"
+    },
+    {
+        "id": "fbbc1e3a-19e3-485a-ae3d-4b6a5256b79e",
+        "product": "Bu SZNYTKA 60g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "ca079d09-2501-4686-8f7c-aa6bb4e41c69",
+        "product": "Bu SZNYTKA 60g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "7872aac7-fb60-4a06-b637-06bf5ee2e1c3",
+        "product": "Bu CHIA 90g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "21693f16-8488-4791-8b57-1d8a54abac73",
+        "product": "Bu CHIA 90g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "bdd72fb7-a971-40f7-9f5b-f5607e6606a7",
+        "product": "Dulcis Moscato d'Asti",
+        "category": "alkohole"
+    },
+    {
+        "id": "fd4b0b90-99eb-4855-a4fd-6a91483331cc",
+        "product": "Reguta Altro Passo",
+        "category": "alkohole"
+    },
+    {
+        "id": "7a0ab076-faa8-4cb0-bc31-ee7235f599a2",
+        "product": "Reklamówka foliowa",
+        "category": "inne"
+    },
+    {
+        "id": "6ad2b331-132c-415b-b1d8-6fd0812d3b20",
+        "product": "Ciastko KruchMix240g",
+        "category": "slodycze"
+    },
+    {
+        "id": "dc41fa0b-7fbc-4ea3-bfb4-7349ab55fcac",
+        "product": "Ciastko BonitkMix200g",
+        "category": "slodycze"
+    },
+    {
+        "id": "756fdf0a-9ad9-4ae3-8430-daa7b75df74f",
+        "product": "Lod Mari RozMix120ml",
+        "category": "slodycze"
+    },
+    {
+        "id": "61a6caac-c63a-405b-8dba-55454031b79e",
+        "product": "Lod Mari RożMix120ml",
+        "category": "slodycze"
+    },
+    {
+        "id": "913fdb5c-279a-4bac-830a-a0a8fad8b302",
+        "product": "Lod Mari RożMix120ml",
+        "category": "slodycze"
+    },
+    {
+        "id": "a7b726a9-9406-4731-8192-a76b50d0350a",
+        "product": "Lod Mari RożMix120ml",
+        "category": "slodycze"
+    },
+    {
+        "id": "a1acc9f8-1a8a-440d-b2a3-d652e491ffb4",
+        "product": "MydLuksjaZapas900ml",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "86512674-7d11-44d5-b213-37d9772fd522",
+        "product": "PłynDKąpiel 1,3/5L",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "3d3c4bcb-1917-4803-a4dc-86b366127dd2",
+        "product": "SałPocketVF2x50g",
+        "category": "warzywa"
+    },
+    {
+        "id": "ddfd72ab-ae9e-4056-b6a6-16121dc1dcfb",
+        "product": "SerHomogWanil200g",
+        "category": "nabial"
+    },
+    {
+        "id": "3353bfef-b795-4692-b265-7760f6814227",
+        "product": "ChusDoOkulMrMagx6(",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "b2843e1f-c99d-46bc-95b0-355b02165e92",
+        "product": "WorkiNŚmie35lx15sz",
+        "category": "chemia"
+    },
+    {
+        "id": "6609eea7-9618-4823-b444-817a9ab7d5d9",
+        "product": "Kwasek cytr 3x20g",
+        "category": "sypkie"
+    },
+    {
+        "id": "f0116a55-c7d7-4a9b-8c52-95c0d20faf7b",
+        "product": "Kwasek cytr 3x20g",
+        "category": "sypkie"
+    },
+    {
+        "id": "fed14f61-6cf4-41f2-83ed-ba71e5809e92",
+        "product": "Kwasek cytr 3x20g",
+        "category": "sypkie"
+    },
+    {
+        "id": "da235683-0824-4f8d-84b8-7579d3f2e746",
+        "product": "DeserWypasiony130g",
+        "category": "slodycze"
+    },
+    {
+        "id": "09981824-f072-43fd-82d3-793d382743e7",
+        "product": "Rzodkiewka szt",
+        "category": "warzywa"
+    },
+    {
+        "id": "38dc6c8b-3a84-4ce5-abed-177c2ea44a8f",
+        "product": "Kabanos Klas 300g",
+        "category": "mieso"
+    },
+    {
+        "id": "7ee01698-8c13-4c5c-bb58-20cc9df70cbf",
+        "product": "BananPremiumLuz",
+        "category": "owoce"
+    },
+    {
+        "id": "0883e1e7-508a-4a35-b92c-12b41270715b",
+        "product": "Pom Paprycz Luz",
+        "category": "warzywa"
+    },
+    {
+        "id": "d4177f12-8b8d-4d36-b8eb-c56abaa6664d",
+        "product": "Woda Pol Plus 0,51",
+        "category": "woda"
+    },
+    {
+        "id": "770c119b-2baa-4eee-a4a9-5a4ac0aa3f7e",
+        "product": "Ogórek grunt luz",
+        "category": "warzywa"
+    },
+    {
+        "id": "26b68114-56e4-4cc3-a557-ed0052270280",
+        "product": "Ziemniaki Wczesne",
+        "category": "warzywa"
+    },
+    {
+        "id": "909b01ca-00e0-4708-ae95-e294c10d5480",
+        "product": "Cytryna luz",
+        "category": "owoce"
+    },
+    {
+        "id": "82046ad7-0cec-4793-9673-6e36440df703",
+        "product": "Cebula Czerwona",
+        "category": "warzywa"
+    },
+    {
+        "id": "59709e25-6d1f-4d61-9a5e-bc038df66787",
+        "product": "Jogurt Nat 190g",
+        "category": "nabial"
+    },
+    {
+        "id": "54748b3f-6298-4e95-a26f-7c1191136fb7",
+        "product": "Jabłko PolPinova",
+        "category": "owoce"
+    },
+    {
+        "id": "bd146a5e-0a6b-4b09-85fc-456573341445",
+        "product": "PolędwiczkiKur400G",
+        "category": "mieso"
+    },
+    {
+        "id": "e819b2f6-a759-43a8-a82a-22d615c5c566",
+        "product": "Łosoś atl fil kg",
+        "category": "ryby"
+    },
+    {
+        "id": "9d260726-8fe0-45d4-9378-0d3696f20655",
+        "product": "Sól Culineo 1kg",
+        "category": "sypkie"
+    },
+    {
+        "id": "108f73c5-a8ea-4ec9-b74d-9f71edb5b2f9",
+        "product": "SałPocketVF2x50g",
+        "category": "warzywa"
+    },
+    {
+        "id": "e0269220-0c6c-45e6-9a02-7109458095ac",
+        "product": "Marchew Młoda Luz",
+        "category": "warzywa"
+    },
+    {
+        "id": "dd620f33-be67-4bd2-99d6-856c9cf44bb1",
+        "product": "Cebula dymka szt",
+        "category": "warzywa"
+    },
+    {
+        "id": "5c8e096b-133b-435e-9c0e-05102a764032",
+        "product": "Cebula dymka szt",
+        "category": "warzywa"
+    },
+    {
+        "id": "495968cc-6735-4437-89e9-e644038d3eaa",
+        "product": "JajaGoBio 9szt",
+        "category": "nabial"
+    },
+    {
+        "id": "526eae71-0dd8-4160-82df-705bf3a99eb1",
+        "product": "RęcznQueTotAbs85m",
+        "category": "chemia"
+    },
+    {
+        "id": "08fcc94d-7e2b-41bc-80eb-9521e2dcd835",
+        "product": "SałataDonSztMix",
+        "category": "warzywa"
+    },
+    {
+        "id": "998676e5-f6b0-4cf0-80bd-2d1b239b8a52",
+        "product": "DeserWypasiony130g",
+        "category": "slodycze"
+    },
+    {
+        "id": "7475670b-95e8-4a44-aa46-9519e110b0d7",
+        "product": "SałPocketVF2x50g",
+        "category": "warzywa"
+    },
+    {
+        "id": "adb97b14-74c8-4663-a2b7-edeaf9d72a53",
+        "product": "PaprSłodka Trzy Kolory",
+        "category": "warzywa"
+    },
+    {
+        "id": "4520603d-9388-4a29-9c51-31f970ed98b5",
+        "product": "PapierQueen 8rolek",
+        "category": "chemia"
+    },
+    {
+        "id": "be38f855-41d8-4d0f-a68d-9470f3d3897d",
+        "product": "SałataMasłowDonSzt",
+        "category": "warzywa"
+    },
+    {
+        "id": "22f83f9f-4f46-4b5b-8629-e6aeb6fbc32c",
+        "product": "JogPitFruPure250g",
+        "category": "nabial"
+    },
+    {
+        "id": "e25b10a3-50a5-4483-ad3b-cf244801ecad",
+        "product": "WodaGaz Muszy1,51",
+        "category": "woda"
+    },
+    {
+        "id": "ee23f375-6de3-4175-ade2-a0410a9cc027",
+        "product": "SerHomogWanil200g",
+        "category": "nabial"
+    },
+    {
+        "id": "faed05c2-c4ab-4895-abcd-7f98454904c1",
+        "product": "Jogurt Nat 190g",
+        "category": "nabial"
+    },
+    {
+        "id": "9114efab-d322-4d8c-8d3c-1d9e434de72a",
+        "product": "Ogórek grunt luz",
+        "category": "warzywa"
+    },
+    {
+        "id": "27d69209-be5f-419c-a145-b75394f13f43",
+        "product": "Pom Paprycz Luz",
+        "category": "warzywa"
+    },
+    {
+        "id": "07eb50c8-aa23-4045-a15a-b4542c86c28b",
+        "product": "BananPremiumLuz",
+        "category": "owoce"
+    },
+    {
+        "id": "b1ee1143-90d4-4358-9c44-0c2e24e86b2a",
+        "product": "Cebula Czerwona",
+        "category": "warzywa"
+    },
+    {
+        "id": "66c70d16-d9aa-48fb-90a1-e3dca17a2b05",
+        "product": "SledzNaRazLisn100g",
+        "category": "ryby"
+    },
+    {
+        "id": "fdfc3ec4-181f-46db-9247-65272cbdac94",
+        "product": "SledzNaRazLisn100g",
+        "category": "ryby"
+    },
+    {
+        "id": "4e41bce8-fc0c-40d8-be25-6f27a58dd763",
+        "product": "SokTymbMultiwi 1L",
+        "category": "napoje"
+    },
+    {
+        "id": "95c9fdf4-3c45-4b94-9fec-97f4285d6b79",
+        "product": "SokTymbMultiwi 1L",
+        "category": "napoje"
+    },
+    {
+        "id": "300deced-64ba-469a-b268-a7a94aba980b",
+        "product": "SokTymbMultiwi 1L",
+        "category": "napoje"
+    },
+    {
+        "id": "f58498ff-00ad-430b-ace2-e9e645ffbb7a",
+        "product": "SokTymbarkjabłkoll",
+        "category": "napoje"
+    },
+    {
+        "id": "a0cb30e5-c209-4d80-b845-f7406ba2ad33",
+        "product": "SokTymbarkjabłkoll",
+        "category": "napoje"
+    },
+    {
+        "id": "4232bdc3-f445-49ac-bb72-3510ffe012ff",
+        "product": "Bu SZNYTKA 60g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "2c1d3a9e-7906-403a-a793-c2fe1f86f401",
+        "product": "BUŁKA TYROL.100g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "53a95a69-734e-4f6c-88c3-e0b2f3a250dd",
+        "product": "HERBATKA LIŚĆ MALINY BIO 25 G - DARY NATURY",
+        "category": "herbata"
+    },
+    {
+        "id": "e136cd57-c916-4a60-8108-2a9d1f6a02ee",
+        "product": "ŻEŃ-SZEŃ SYBERYJSKI CIĘTY 100G",
+        "category": "ziola i przyprawy"
+    },
+    {
+        "id": "26a438f0-0601-4fac-857d-57e2030eb5e8",
+        "product": "CZARNUSZKA ZIARNO 250G",
+        "category": "ziola i przyprawy"
+    },
+    {
+        "id": "685a3492-8a9e-4b11-a77f-79ff1be9bd24",
+        "product": "OLEJ LNIANY 250ml ZŁOTO POLSKIE",
+        "category": "tluszcze"
+    },
+    {
+        "id": "40be591a-8e38-4267-b0f8-debaebcdf436",
+        "product": "ZAKWAS Z BURAKÓW TRADYCYJNYCH BIO 500ML BIO PLANET",
+        "category": "napoje"
+    },
+    {
+        "id": "11234114-e48d-42ce-b4f6-59bae71b1fd0",
+        "product": "Kebab Roll Standard z mięsem mieszanym/wołowiną",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "ef397666-2f08-4058-b66a-2050a001e6ca",
+        "product": "0_116Opakowanie",
+        "category": "inne"
+    },
+    {
+        "id": "0f595b1c-1139-414f-a00e-9d8c272862de",
+        "product": "SIEL FIO NORMA HYD X",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "a728c805-d1af-4495-abce-301c119b0252",
+        "product": "ISANA HYDROŻELOWE",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "e1bd9ff0-e3e9-41f2-a9b2-34f115faec35",
+        "product": "ISANA HYDROŻELOWE",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "91175926-b886-486f-9d79-b0cd14d20312",
+        "product": "ISANA HYDROŻELOWE",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "c655bf06-839a-45b6-9569-8131803785ea",
+        "product": "LACALUT SENSITIVE",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "ff25e8b9-2a6d-4245-adf2-572a367cf4cd",
+        "product": "DERMENA MEN SZAM.",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "9db36840-d7bc-4234-81e5-95e86f69743e",
+        "product": "ELMEX PŁYN DO PŁU",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "b740d9e0-b441-4268-bbf0-e5989b14d6d6",
+        "product": "UA|5700099|PICK & MIX",
+        "category": "slodycze"
+    },
+    {
+        "id": "0914c795-a6c1-4c37-8ba6-e1336d8ffa38",
+        "product": "UA|5700099|TORBA PM S",
+        "category": "inne"
+    },
+    {
+        "id": "a290165a-58e7-482c-bcf0-3379717736c2",
+        "product": "Bu CHIA 90g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "39cdce40-1cf9-4330-a9e0-155ae3091389",
+        "product": "Bu SZNYTKA 60g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "fedc9867-ee9e-4a31-ba2d-387d9be802bb",
+        "product": "Kebab Roll Small z kurczakiem ",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "efc2bf95-b6bf-4793-aa25-8110dd8b310e",
+        "product": "0_116Opakowanie",
+        "category": "inne"
+    },
+    {
+        "id": "b1a3e227-a1e8-4b72-a689-9c81c4842464",
+        "product": "Kebab Roll Standard z kurczakiem",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "f5a0ef63-7ae7-4933-af6a-8f598c64b3e9",
+        "product": "0_116Opakowanie",
+        "category": "inne"
+    },
+    {
+        "id": "b9851f80-d0b9-483f-b7e8-a566bb3897d0",
+        "product": "BUŁKA TYROL.100g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "30af4a11-0649-45fb-af73-e48cf97e731d",
+        "product": "KAN FIRMOWA 170G",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "7c5505cc-05cb-4804-93c6-0d2e0ca28223",
+        "product": "0,3 FlatWhite S.",
+        "category": "kawa"
+    },
+    {
+        "id": "f932283c-57b4-43cf-b8f2-0e4c59ecc273",
+        "product": "Bu SZNYTKA 60g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "cc9cc280-3568-45a7-a90e-56f1c84ac900",
+        "product": "BUŁKA TYROL.100g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "92a68e7c-ee9f-4890-b996-a9454651b443",
+        "product": "RękawNitryRozLx100",
+        "category": "chemia"
+    },
+    {
+        "id": "25e228ec-269e-4cdf-8b44-2fa899814c7d",
+        "product": "PolędwiczkiKur400G",
+        "category": "mieso"
+    },
+    {
+        "id": "444dbeb5-f01f-42e1-afbe-4a26540057bd",
+        "product": "ParowkiBerl300g",
+        "category": "mieso"
+    },
+    {
+        "id": "8b70f5ac-db34-4dde-b017-e540a8b2873d",
+        "product": "JajaGoBio 9szt",
+        "category": "nabial"
+    },
+    {
+        "id": "49f8e555-efa8-412d-bbcd-88a9376e7d91",
+        "product": "SerEdamskiŚw 150g",
+        "category": "nabial"
+    },
+    {
+        "id": "c1aecd02-a600-4821-9425-80041143166c",
+        "product": "OwsiankaMangoGoj10",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "bcef7ad2-100a-48b9-87d6-f18f2f7f7897",
+        "product": "Jogurt Nat 190g",
+        "category": "nabial"
+    },
+    {
+        "id": "5fc16559-616b-41d7-b89d-6a4a6831c967",
+        "product": "Ogórek grunt luz",
+        "category": "warzywa"
+    },
+    {
+        "id": "3b7d1283-e58b-4e75-bc15-dcf621123383",
+        "product": "Zupa pom orzo 450g",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "ef40fd3d-1995-4581-b851-d4aa5ae62292",
+        "product": "MarchewLuz",
+        "category": "warzywa"
+    },
+    {
+        "id": "a9365589-e666-4258-bf92-f1e42ab45660",
+        "product": "Mozzar light 125g",
+        "category": "nabial"
+    },
+    {
+        "id": "158f4ea8-b4e8-4675-a79b-7e5cec77e4f7",
+        "product": "Cytryna luz",
+        "category": "owoce"
+    },
+    {
+        "id": "7a34d2d3-8169-4657-962a-460850b04bc6",
+        "product": "SałPocketVF2x50g",
+        "category": "warzywa"
+    },
+    {
+        "id": "251b7dfb-89d9-40a5-bfa3-6744065369bc",
+        "product": "Pom Paprycz Luz",
+        "category": "warzywa"
+    },
+    {
+        "id": "01e33d49-2478-403f-badd-eb10d0260486",
+        "product": "NEKTAR TYMBARK 1L",
+        "category": "napoje"
+    },
+    {
+        "id": "a4140375-9538-4e22-a110-a317cc1cda88",
+        "product": "NAPOJ COCA 0,33L BUT",
+        "category": "napoje"
+    },
+    {
+        "id": "9c7b1871-65d6-4126-a234-fba6d0011a5c",
+        "product": "PIWO ZYWIEC BIALE",
+        "category": "alkohole"
+    },
+    {
+        "id": "222c9c42-9489-43e1-9f23-084ed84dec32",
+        "product": "LODY KAKTUS",
+        "category": "slodycze"
+    },
+    {
+        "id": "f24bbb7c-45b5-4674-b8f6-7495c859945f",
+        "product": "PIZZA FELICIANA SA",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "c940329a-b574-4746-960e-224e6706b504",
+        "product": "WAFEL MEGA GRZESKI",
+        "category": "slodycze"
+    },
+    {
+        "id": "7db1c940-7d3a-49f7-bb4d-bc391bf74e84",
+        "product": "Kebab Roll Standard z mięsem mieszanym/wołowiną",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "815d22f2-82f7-49c9-bcc5-74caf5573041",
+        "product": "1_22Frytki Steakhouse 150g",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "d9ae7adc-da1d-4b3f-bef2-edc9261d65cf",
+        "product": "0_1160Opakowanie",
+        "category": "inne"
+    },
+    {
+        "id": "d5d60bb4-ec0e-41c5-a775-71d89b3d7203",
+        "product": "LodyKaktus45ml",
+        "category": "slodycze"
+    },
+    {
+        "id": "ea0a7822-52c5-46ca-88b8-27a3bf41ffcf",
+        "product": "LodyMarlRożMix120ml",
+        "category": "slodycze"
+    },
+    {
+        "id": "0b28f2bf-36b2-471a-acda-2f3c565ad147",
+        "product": "MIX FINUU 200g",
+        "category": "nabial"
+    },
+    {
+        "id": "051e2fee-45fc-477b-a7d4-a51de996aba1",
+        "product": "NAPOJ ENERGET RED BULL 0,25l",
+        "category": "napoje"
+    },
+    {
+        "id": "102b947c-4236-4639-acfb-3fee68e75ca9",
+        "product": "NAPOJ KINLEY 1L",
+        "category": "napoje"
+    },
+    {
+        "id": "7bcf7ade-c43b-4132-8f85-157437e41b8b",
+        "product": "PŁATKI CHOCAPIC 250",
+        "category": "sypkie"
+    },
+    {
+        "id": "3ac43497-748e-49a2-8d99-db760b20af9e",
+        "product": "C MLECZNO-MIGDAŁOWE",
+        "category": "slodycze"
+    },
+    {
+        "id": "4b036724-53b2-4386-914a-0b662c995179",
+        "product": "Szynka biebrzówka JBB",
+        "category": "mieso"
+    },
+    {
+        "id": "869f514e-34dc-4aea-9650-2c1f9ecc3a5b",
+        "product": "Kabanosy dziadkowe",
+        "category": "mieso"
+    },
+    {
+        "id": "9a416176-ff8a-4509-a384-0176b50c174d",
+        "product": "LODY KAKTUS 45ml",
+        "category": "slodycze"
+    },
+    {
+        "id": "2de38f54-37ea-43ea-89fc-a66237f74ec4",
+        "product": "Chleb z kaszą Jaglaną",
+        "category": "pieczywo"
+    },
+    {
+        "id": "1456b434-3c3e-4388-a084-c0ea5f63488c",
+        "product": "SASZ DO POMIE KW CZEREŚNI",
+        "category": "inne"
+    },
+    {
+        "id": "c48d9b39-6f89-4463-8b74-9b9609572236",
+        "product": "Stolik NEPO PLUS LAW66 DĄB MONASTERY",
+        "category": "inne"
+    },
+    {
+        "id": "8cfba8da-8b03-44ad-b122-04a9b83d7efc",
+        "product": "PapierQueen 8rolek",
+        "category": "chemia"
+    },
+    {
+        "id": "ad4e3e01-98ff-44bf-afa2-02e543f95b22",
+        "product": "FoliaAlumZosSam20m",
+        "category": "chemia"
+    },
+    {
+        "id": "90a5913c-07b5-404c-a23d-0355a2e42e2e",
+        "product": "Chust120szt3wQueen",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "ce44c8bb-389e-4f32-a242-e50e65cc5126",
+        "product": "WorkiNŚmie35lx15sz",
+        "category": "chemia"
+    },
+    {
+        "id": "ab0bd9c5-553a-4a7c-8ac3-106c36f4e2cd",
+        "product": "ChustQueenMe10x10",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "2c43a711-4c4d-401a-af40-da9e2a372fb7",
+        "product": "Chust120szt3wQueen",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "dbe3940e-f59e-4ff6-9fc7-4ad2af148199",
+        "product": "Paluszki Lajkon200g",
+        "category": "slodycze"
+    },
+    {
+        "id": "16dcd651-6eb8-4360-82d9-1dbc4d2b8748",
+        "product": "Łosoś atl fil kg",
+        "category": "ryby"
+    },
+    {
+        "id": "bdbdf57f-65e5-4b94-a6fd-2ac27f196c0b",
+        "product": "RęcznQue TotAbs85m",
+        "category": "chemia"
+    },
+    {
+        "id": "0858aa09-b13b-4c38-a3b7-c938a293f195",
+        "product": "MixSałWłosVF120g",
+        "category": "warzywa"
+    },
+    {
+        "id": "f8d510df-3af7-4ceb-8251-c370f6924a90",
+        "product": "MixSałWłosVF120g",
+        "category": "warzywa"
+    },
+    {
+        "id": "e69bee4a-0b4e-44db-a517-1ec5379e775c",
+        "product": "Serwetki x20szt",
+        "category": "chemia"
+    },
+    {
+        "id": "66918e67-8d5e-4259-826e-98273d8778e7",
+        "product": "WorkiNŚmie35lx15sz",
+        "category": "chemia"
+    },
+    {
+        "id": "aaf6063c-c372-41dc-aed6-8fe8378c519d",
+        "product": "PastylkiMię Waw210g",
+        "category": "slodycze"
+    },
+    {
+        "id": "4ed16dcd-7ef0-49ce-8ab8-92713bb6c640",
+        "product": "Jogurt Nat 190g",
+        "category": "nabial"
+    },
+    {
+        "id": "06e190e6-efd6-438b-9867-84ddf2676554",
+        "product": "Jogurt Nat 190g",
+        "category": "nabial"
+    },
+    {
+        "id": "4f0fc71f-ac2a-4939-ad9f-5ea6de141141",
+        "product": "Pom Paprycz Luz",
+        "category": "warzywa"
+    },
+    {
+        "id": "3a83add8-506c-4c0e-9ee9-87d6aca43485",
+        "product": "SerSałNaturKorto160g",
+        "category": "nabial"
+    },
+    {
+        "id": "c7614201-5ed7-4a0d-bf14-2e72708dff65",
+        "product": "SerEdamskiŚw 150g",
+        "category": "nabial"
+    },
+    {
+        "id": "74a05cb5-d9ea-4951-8ee6-fad587d455f4",
+        "product": "Cytryna luz",
+        "category": "owoce"
+    },
+    {
+        "id": "1e0b0c42-04e3-415a-b908-16948a520c8c",
+        "product": "Polędw wp kg GV",
+        "category": "mieso"
+    },
+    {
+        "id": "5b5e8154-975a-4615-ab2b-8f192754d56e",
+        "product": "JajaGoBio 9szt",
+        "category": "nabial"
+    },
+    {
+        "id": "f4d6eddd-e1e5-4798-a7bc-a8e02adc55ec",
+        "product": "PrzekąskaSafari180g",
+        "category": "slodycze"
+    },
+    {
+        "id": "bac63555-c0b2-422c-bb24-29a1dccf2d3e",
+        "product": "Pomarańcze Des Luz",
+        "category": "owoce"
+    },
+    {
+        "id": "7263466b-8c3d-47db-9564-33ca4588370c",
+        "product": "OlikiZieGall340/150g",
+        "category": "tluszcze"
+    },
+    {
+        "id": "e6781dbb-aa24-4109-8401-fa4996dd6a33",
+        "product": "FasolaNS400 240g",
+        "category": "przetworzone"
+    },
+    {
+        "id": "96829b8a-7548-4f22-b800-b101ef99c273",
+        "product": "MLEK WYPAS 3,2 1L",
+        "category": "nabial"
+    },
+    {
+        "id": "3e9921f6-dbba-4d2d-92a9-4afe162c722f",
+        "product": "Nap Coca-Cola 0,51",
+        "category": "napoje"
+    },
+    {
+        "id": "eb3a3a00-ee0c-40fb-9439-7e2da97fe470",
+        "product": "Woda Gaz Muszy 1,51l",
+        "category": "woda"
+    },
+    {
+        "id": "ea6e66cf-ff24-47cf-aba8-f1b4955cdfbb",
+        "product": "Woda Gaz Muszy 1,51l",
+        "category": "woda"
+    },
+    {
+        "id": "e3b9d896-6de7-429f-975d-8588854c3c4b",
+        "product": "Woda NGaz Muszyni1,5l",
+        "category": "woda"
+    },
+    {
+        "id": "5b626d62-615d-4197-bc5f-5bac198dbceb",
+        "product": "SokTymbarkJabłko1l",
+        "category": "napoje"
+    },
+    {
+        "id": "0be96eea-0ff5-46e7-a30a-00fe0aa3ed27",
+        "product": "SokTymMulti 1l",
+        "category": "napoje"
+    },
+    {
+        "id": "338545a2-abd6-4c85-9fa6-33fb441864f3",
+        "product": "SokTymMulti 1l",
+        "category": "napoje"
+    },
+    {
+        "id": "4553e41b-ee90-4824-a5fe-5939f867944d",
+        "product": "SokTymbarkJabłko1l",
+        "category": "napoje"
+    },
+    {
+        "id": "14a66592-f60e-4f19-80e6-535c085cce30",
+        "product": "Woda Pol Plus 0,5l",
+        "category": "woda"
+    },
+    {
+        "id": "0586c393-4bcc-4359-895f-72bb246c665f",
+        "product": "PIWO ZYWIEC BIALE",
+        "category": "alkohole"
+    },
+    {
+        "id": "052854fe-4ac7-49c5-9c38-8125e794b0b2",
+        "product": "PIWO WARKA JASNE PELNE 0,5l",
+        "category": "alkohole"
+    },
+    {
+        "id": "58b9b13c-eaca-4458-8307-165366119cec",
+        "product": "Kaucja za butelkę",
+        "category": "inne"
+    },
+    {
+        "id": "cce8fa5d-270e-4599-beaa-601568483225",
+        "product": "warzywa",
+        "category": "warzywa"
+    },
+    {
+        "id": "0e20e9c5-3472-4f9c-b393-b38d869d5458",
+        "product": "Kebab Roll Standard z mięsem mieszanym/wołowiną",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "16193883-512a-4913-bac4-7022f05a5a5f",
+        "product": "0_1160Opakowanie",
+        "category": "inne"
+    },
+    {
+        "id": "03aab2f0-d06b-442d-a9a2-ce6776d1756b",
+        "product": "Jagodzianka Kamcz PIEC",
+        "category": "slodycze"
+    },
+    {
+        "id": "fed54f66-d832-4e21-9b73-3dc31bcc7ce5",
+        "product": "Pączek Wyborowy",
+        "category": "slodycze"
+    },
+    {
+        "id": "5c3576aa-d195-40ec-b58f-37d1ea29babd",
+        "product": "Chleb Bielański",
+        "category": "pieczywo"
+    },
+    {
+        "id": "84562198-70c7-43d5-8ca0-b7ad413b89b0",
+        "product": "Bu SZNYTKA 60g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "3bb6144d-54a1-4b16-ba82-c6264325a08f",
+        "product": "JOGURT JOVI 350g",
+        "category": "nabial"
+    },
+    {
+        "id": "4c0df4fd-a934-4dfc-8537-1c7b899841d1",
+        "product": "WODA OD NOWA 0,5l",
+        "category": "woda"
+    },
+    {
+        "id": "35dd81b0-3359-454e-be30-5b58d1eec333",
+        "product": "SEREK CZEKOL 200g",
+        "category": "nabial"
+    },
+    {
+        "id": "6abd4e29-14ee-480c-a424-5ccfdcfffa04",
+        "product": "NAPOJ JOGURT JOVI",
+        "category": "nabial"
+    },
+    {
+        "id": "9151b1d9-9ec1-4d3b-a068-48e5d788a779",
+        "product": "WAF KUK CZEK 33g",
+        "category": "slodycze"
+    },
+    {
+        "id": "42693ea9-207c-4573-99e5-80b4b7c34f7f",
+        "product": "Kebab Roll Standard z mięsem mieszanym/wołowiną",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "1e066929-73a9-4dd8-bb1a-40d6431de411",
+        "product": "1_22Frytki Steakhouse 150g",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "b2c77f06-6ef6-4517-ba6c-ac04230d2b45",
+        "product": "0_1160Opakowanie",
+        "category": "inne"
+    },
+    {
+        "id": "df0b750f-4591-4796-8a62-ee0c8df94bd4",
+        "product": "AntpNivea MSilvr200m",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "90d22971-eb79-4d65-addd-09d59aa3ff6c",
+        "product": "LodMarlRożMix120ml",
+        "category": "slodycze"
+    },
+    {
+        "id": "b7fec560-b4e4-4a30-aeb8-64833643d0af",
+        "product": "LodMarRoSłKar150ml",
+        "category": "slodycze"
+    },
+    {
+        "id": "5de8f668-d47c-4ce9-8175-7491ea6d408e",
+        "product": "RożekMarlTruska150n",
+        "category": "slodycze"
+    },
+    {
+        "id": "04a9ca16-c272-4794-af5f-81ab91c17072",
+        "product": "RożekMarljagoda150r",
+        "category": "slodycze"
+    },
+    {
+        "id": "f13dcee5-589b-4a42-832c-1b4534353bc7",
+        "product": "Torba Termoizol",
+        "category": "inne"
+    },
+    {
+        "id": "6dc9d81d-0c43-48ff-8633-763192663be2",
+        "product": "KURCZAK CHRUPIĄ ",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "11e771f9-c778-49ad-ba72-501c4f216382",
+        "product": "ZAMIANA FRYTKI",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "f8b053d6-40dc-46e8-8e67-1cee658e6ce5",
+        "product": "OPAKOWANIE",
+        "category": "inne"
+    },
+    {
+        "id": "7021eab7-862c-48d9-87eb-0b9af8fe3e1b",
+        "product": "TOREKA",
+        "category": "inne"
+    },
+    {
+        "id": "49b9b310-3dbc-439d-84ad-131c387a4e4c",
+        "product": "SOK TYMBARK 1l",
+        "category": "napoje"
+    },
+    {
+        "id": "794e0fac-ecea-4798-8c78-d9c8fc4128df",
+        "product": "WODA ALCALIA 1l",
+        "category": "woda"
+    },
+    {
+        "id": "7c1d1ecb-ec2b-4a98-a1f3-bda2c3d94446",
+        "product": "Kebab Roll Standard z mięsem mieszanym/wołowiną",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "59287932-ad0d-4489-bf39-fe732c68f3e2",
+        "product": "0_1160Opakowanie",
+        "category": "inne"
+    },
+    {
+        "id": "eeb8a896-4a48-4950-b6c2-ddf7ea4663ea",
+        "product": "SokTymbMultiwi 1l",
+        "category": "napoje"
+    },
+    {
+        "id": "387c4d3f-a744-4d6e-a1ca-a6451d0fc2b2",
+        "product": "MuszSarKam185g",
+        "category": "przetworzone"
+    },
+    {
+        "id": "78fee7bf-f924-424f-a641-5052810c802e",
+        "product": "OgórKonNS450g",
+        "category": "przetworzone"
+    },
+    {
+        "id": "a6936bd3-6375-400e-b12d-8143624a93b8",
+        "product": "ParowkiBerl300g",
+        "category": "mieso"
+    },
+    {
+        "id": "90019eb3-b698-4e5b-a36c-1da17e6745c9",
+        "product": "Bagietka Czos 165g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "56a2d771-2e8c-4c3b-b391-b5a8526ecf4a",
+        "product": "Torba T-SHIRT",
+        "category": "inne"
+    },
+    {
+        "id": "283687be-0842-4c27-85d5-2eb8f7d4ed1b",
+        "product": "RęcznQue TotAbs85m",
+        "category": "chemia"
+    },
+    {
+        "id": "56a88676-77b3-48e6-9d33-b9b1873a3dc9",
+        "product": "Zupa jarz fz 450g",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "7cf1c9e9-22ff-44a2-995d-0a473733c60b",
+        "product": "Jogurt Nat 190g",
+        "category": "nabial"
+    },
+    {
+        "id": "17095b68-9beb-4e20-a6a7-987d6a76902b",
+        "product": "KabaExclTarcz 50 g",
+        "category": "mieso"
+    },
+    {
+        "id": "9fbacce4-02ea-40ea-abdb-319efb694a75",
+        "product": "Banan Premium Luz",
+        "category": "owoce"
+    },
+    {
+        "id": "7f9e1bfe-9a22-4977-ac41-641bc8d5d44b",
+        "product": "Jogurt Nat 190g",
+        "category": "nabial"
+    },
+    {
+        "id": "e4253c12-d462-410f-a3b7-cd9ce7fa7bdf",
+        "product": "JogProteinGoAc230g",
+        "category": "nabial"
+    },
+    {
+        "id": "bc9e7678-8f02-4264-a785-6c6d81d9c8ce",
+        "product": "KulkiGorzCzek40g",
+        "category": "slodycze"
+    },
+    {
+        "id": "d7852c3e-e6c1-448a-be7f-5afee5ea4eda",
+        "product": "RożekMarlKakOrz150r",
+        "category": "slodycze"
+    },
+    {
+        "id": "7c31ce65-07ce-4312-bf6e-5ff0b6fc8869",
+        "product": "RożekMariKakOrz150r",
+        "category": "slodycze"
+    },
+    {
+        "id": "a3213796-c871-4e1f-9756-4c693261628f",
+        "product": "RożekMarlKakOrz150r",
+        "category": "slodycze"
+    },
+    {
+        "id": "3ccba52b-bebe-47cf-bb9c-3d58cf8c4161",
+        "product": "Rożek MariKakOrz150r",
+        "category": "slodycze"
+    },
+    {
+        "id": "206df519-921d-4f8b-8430-0f535aaffa9c",
+        "product": "DiRisoWisnia100g",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "81dd85a8-da1f-4f58-abf5-7e7b4285ff8f",
+        "product": "Ogórek grunt luz",
+        "category": "warzywa"
+    },
+    {
+        "id": "d1dacf02-0f31-40a8-9cab-e60a736bbdc2",
+        "product": "Rzodkiewka szt",
+        "category": "warzywa"
+    },
+    {
+        "id": "39203db7-1e94-43c0-aded-22a03f4a64a4",
+        "product": "Jabłko Pol Zie Luz",
+        "category": "owoce"
+    },
+    {
+        "id": "148f2959-8a23-4193-9230-368d8d317881",
+        "product": "Zupa marok 450g",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "9d915205-b63f-4375-8315-dec658496d05",
+        "product": "Pom Paprycz Luz",
+        "category": "warzywa"
+    },
+    {
+        "id": "63503e23-aee9-4086-8f36-7ae14dc5582d",
+        "product": "SerHomogWanil200g",
+        "category": "nabial"
+    },
+    {
+        "id": "1c7a1fb5-8675-4689-90b9-5782fb8c89f5",
+        "product": "MixSałWłosVF120g",
+        "category": "warzywa"
+    },
+    {
+        "id": "473e1695-5a9d-43ea-8c61-3c2c98d6c696",
+        "product": "BUŁKA TYROL.100g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "98ca640f-858e-495d-ac34-f92fe8bd551c",
+        "product": "SokTymbarkJabłko1l",
+        "category": "napoje"
+    },
+    {
+        "id": "e88977ef-02f0-4c42-bc1e-91bb04a40060",
+        "product": "SokTymbarkJabłko1l",
+        "category": "napoje"
+    },
+    {
+        "id": "e8940956-f4d5-4b2c-b4b1-dc1d102eac77",
+        "product": "Sok Pomarańcz 1l",
+        "category": "napoje"
+    },
+    {
+        "id": "76b3d9d6-11ca-4d53-b416-20478e837ec0",
+        "product": "SokTymbMultiwi 1l",
+        "category": "napoje"
+    },
+    {
+        "id": "1bbd99dc-7630-4121-9545-3f9137e11756",
+        "product": "SokTymbMultiwi 1l",
+        "category": "napoje"
+    },
+    {
+        "id": "6e82eff6-5d4c-4314-aa49-6450073653b1",
+        "product": "Torba T-SHIRT",
+        "category": "inne"
+    },
+    {
+        "id": "e449ef0d-dc33-462d-82bd-c9e0785a9e98",
+        "product": "JOGURT JOVI 350g",
+        "category": "nabial"
+    },
+    {
+        "id": "ca70c9c6-df98-4fd1-b294-d80ec632b6cb",
+        "product": "KURCZAK CHRUPIĄ",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "f33eb437-8f04-4c4f-97b2-56c8ed692975",
+        "product": "ZAMIANA FRYTKI",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "1b96a824-50ee-40be-9cd9-1a0e38b02e6a",
+        "product": "OPAKOWANIE",
+        "category": "inne"
+    },
+    {
+        "id": "fd67cb93-8fce-4714-9910-d38dae789d70",
+        "product": "TOREKA",
+        "category": "inne"
+    },
+    {
+        "id": "7a0c46e6-c4a9-44af-8d61-c309827f76ec",
+        "product": "KAN Z KRAKOWSKA 230",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "2fae5831-37f1-43b7-84de-3fa2a2970245",
+        "product": "Bu SZNYTKA 60g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "d65ce52a-0efb-4104-8a8d-b86a2d4b2cbe",
+        "product": "Dulcis Moscato d'Asti",
+        "category": "alkohole"
+    },
+    {
+        "id": "fb2f51ce-db91-45da-8de2-fe695708945a",
+        "product": "Toso Moscato d'Asti",
+        "category": "alkohole"
+    },
+    {
+        "id": "31cdcbb2-9170-40d9-8a91-b59d395fcd9a",
+        "product": "Bagnasco Sangue di Giuda",
+        "category": "alkohole"
+    },
+    {
+        "id": "b8acf664-6639-4d91-a009-3a71c68f3c71",
+        "product": "Reklamowka foliowa",
+        "category": "inne"
+    },
+    {
+        "id": "67466fc9-16ce-47c9-87a2-aa5d8b01f227",
+        "product": "FL_Wan_Lio_Trus",
+        "category": "slodycze"
+    },
+    {
+        "id": "3f53d109-98cf-440a-96ea-745d73ebf125",
+        "product": "FL_Wan_Lio_Czek",
+        "category": "slodycze"
+    },
+    {
+        "id": "ec8083d4-bb24-4030-b375-e8a067a9b156",
+        "product": "Big Mac",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "82112171-fea6-45e4-83cb-edd003268a51",
+        "product": "Kratofelki",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "0460ecce-7117-416d-af07-78eebd0d3e4c",
+        "product": "Bu SZNYTKA 60g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "68acffe6-f7ca-4b08-95b4-3d0fc9c98719",
+        "product": "Bu CHIA 90g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "85006dee-9c12-433d-9fea-74ec40c116b3",
+        "product": "ROG PARYS 90g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "7470dd96-8531-42f7-a33a-05b4ba8461a7",
+        "product": "Bilet normalny",
+        "category": "inne"
+    },
+    {
+        "id": "df6fc79f-46c0-4ce2-9cd4-5728c2727b20",
+        "product": "Bilet normalny",
+        "category": "inne"
+    },
+    {
+        "id": "63199e60-3b8c-49ac-96fc-afd6ffcc9845",
+        "product": "Bilet ulgowy",
+        "category": "inne"
+    },
+    {
+        "id": "743ebfe3-004e-482c-ab24-38db8e3bbdab",
+        "product": "Usługa transportowa",
+        "category": "inne"
+    },
+    {
+        "id": "2592914a-b562-4a9f-a5b4-b4db8686b0cf",
+        "product": "Usługa parkingowa",
+        "category": "inne"
+    },
+    {
+        "id": "8c4f1a65-616d-452d-87fc-792fc5be8b8a",
+        "product": "warzywa",
+        "category": "warzywa"
+    },
+    {
+        "id": "01ff56cc-c2ff-4a98-89e5-cbe9edd7392b",
+        "product": "truskawki",
+        "category": "owoce"
+    },
+    {
+        "id": "7c772b91-24bb-4aca-b861-bbbfd7ed747e",
+        "product": "WodaGaz Muszy1,5l",
+        "category": "woda"
+    },
+    {
+        "id": "f8fa8394-016b-4ba4-9617-57cd74f8f55b",
+        "product": "Nap. Gaz. Tym0,33l",
+        "category": "napoje"
+    },
+    {
+        "id": "7f357e89-6cea-4724-ad09-e1f88838395a",
+        "product": "NapGazFanta0,33lPu",
+        "category": "napoje"
+    },
+    {
+        "id": "bd8f6d35-ad42-4f42-833d-78953d30d1a5",
+        "product": "Woda Pol Plus 0,5l",
+        "category": "woda"
+    },
+    {
+        "id": "a459300e-c390-4235-8196-049ae2ecd5b7",
+        "product": "ŻelWieloAloes99",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "2585dafc-458d-46f6-94aa-148980dfb876",
+        "product": "ParGłodniaki200g",
+        "category": "mieso"
+    },
+    {
+        "id": "0339de94-1b78-4bf8-9b40-44d69a966abd",
+        "product": "ŻelWieloAloes99",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "df5098d9-b31f-4c33-838f-9e4cf8c9be0d",
+        "product": "Jogurt Nat 190g",
+        "category": "nabial"
+    },
+    {
+        "id": "daf5b0e2-a540-42e9-9e22-c2cd83a2cfeb",
+        "product": "RyżJaśminowy4x100g",
+        "category": "sypkie"
+    },
+    {
+        "id": "4865c3f0-c618-4148-b9b6-ea29ef093d71",
+        "product": "Kos fi pie kur400g",
+        "category": "mieso"
+    },
+    {
+        "id": "f21843c7-b0ce-4765-9861-be83dfddd6c4",
+        "product": "BananPremiumLuz",
+        "category": "owoce"
+    },
+    {
+        "id": "aa04ad70-311d-4346-a67f-7721c95c529a",
+        "product": "Jogurt Nat 190g",
+        "category": "nabial"
+    },
+    {
+        "id": "67afbf8c-8012-4374-a147-1aee87000145",
+        "product": "Cukinia luz",
+        "category": "nabial"
+    },
+    {
+        "id": "7ba83903-8c0a-4acc-a5c0-e183c832cf35",
+        "product": "Jabłko Szamp luz",
+        "category": "owoce"
+    },
+    {
+        "id": "a81fe7cc-61c3-433c-b6d0-4fbfb0777ce2",
+        "product": "Łosoś atl fil kg",
+        "category": "ryby"
+    },
+    {
+        "id": "8cc43028-4829-4cff-b037-ca6b21e44ada",
+        "product": "Łosoś atl fil kg",
+        "category": "ryby"
+    },
+    {
+        "id": "55f04284-2a5b-48f1-b051-c8a7d6d8f3a6",
+        "product": "Papryka Słodka Żółta",
+        "category": "warzywa"
+    },
+    {
+        "id": "bd50178f-0206-4dcc-a143-471abb70d651",
+        "product": "Papryka Słodka Czerw",
+        "category": "warzywa"
+    },
+    {
+        "id": "ed89b4fd-6843-4fd0-9ab4-8f4aaa84b9ed",
+        "product": "SałPocketVF2x50g",
+        "category": "warzywa"
+    },
+    {
+        "id": "1d28776b-e6d4-4377-bf50-e3e66157ae37",
+        "product": "MarchewLuz",
+        "category": "warzywa"
+    },
+    {
+        "id": "d25e033e-0243-4110-9510-8fe356294835",
+        "product": "RożekMarlKakOrz150r",
+        "category": "slodycze"
+    },
+    {
+        "id": "be81288c-2387-4f80-8a9b-4116fdfad2fb",
+        "product": "LodMarlRożMix120ml",
+        "category": "slodycze"
+    },
+    {
+        "id": "e22b2965-78a0-4f6a-bb17-45738d4c652c",
+        "product": "LodMarlRożMix120ml",
+        "category": "slodycze"
+    },
+    {
+        "id": "cbdbf734-bc35-4a19-94ad-dad40db23111",
+        "product": "LodMarlRożMix120ml",
+        "category": "slodycze"
+    },
+    {
+        "id": "bb2f0ea1-0f51-483f-abd4-1365b3e206bf",
+        "product": "RożekMarlKakOrz150r",
+        "category": "slodycze"
+    },
+    {
+        "id": "e7a77c4b-f131-40cc-9971-5b18607cae4b",
+        "product": "RożekMarlKakOrz150r",
+        "category": "slodycze"
+    },
+    {
+        "id": "983ed18e-170c-4f4e-9323-199f94e649c0",
+        "product": "SOK KUBUS 0,3l",
+        "category": "napoje"
+    },
+    {
+        "id": "8b729673-c2dc-492e-84ac-a32ca95ba163",
+        "product": "SOK HORTEX 300ml",
+        "category": "napoje"
+    },
+    {
+        "id": "1e8e9726-4b2e-496e-b546-d2c0d3f11f1f",
+        "product": "WODA NGAZ PRIMA 1l",
+        "category": "woda"
+    },
+    {
+        "id": "60cb6128-6559-4a2b-8df2-c552443ef7cd",
+        "product": "WODA OD NOWA 0,5l",
+        "category": "woda"
+    },
+    {
+        "id": "5dd121ca-2c12-48c4-8112-db9d11c486a3",
+        "product": "KANAPKA MILKYW 28g",
+        "category": "slodycze"
+    },
+    {
+        "id": "fd3d0608-60d6-4b0a-afef-6fece36dbffe",
+        "product": "KANAPKA BOUNTY 28g",
+        "category": "slodycze"
+    },
+    {
+        "id": "fda7e6a9-ae85-4063-bc31-b9aa45efd7a0",
+        "product": "DRAZETKI TIC TAC MINT",
+        "category": "slodycze"
+    },
+    {
+        "id": "70e301f1-03cd-47ea-97e5-0554a2ac7ae5",
+        "product": "LIZAK CHUPS OWOCOWE",
+        "category": "slodycze"
+    },
+    {
+        "id": "e310ffe9-fd79-4c5f-9407-e86c6aacbadf",
+        "product": "C_PRZETARTE HORTEX",
+        "category": "napoje"
+    },
+    {
+        "id": "ef274ef7-44e0-4a88-8895-6496a2010add",
+        "product": "C_SUSHI ROLL PIECZO",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "0f32a4e3-1f34-423a-acba-501ecee43015",
+        "product": "0,3 FlatWhite S.",
+        "category": "kawa"
+    },
+    {
+        "id": "03bf9ab3-6bd9-4db0-b4ea-c38c8d879884",
+        "product": "SEREK WIEJSKI Z TRUSKAWKA 150g",
+        "category": "nabial"
+    },
+    {
+        "id": "f1b81e33-8957-4ba0-87ad-5f561899a0b6",
+        "product": "WODA OD NOWA 0,5l",
+        "category": "woda"
+    },
+    {
+        "id": "b4cd05a2-c80e-4301-8ac9-9143fad1dc07",
+        "product": "46978 Koszulki dziewczece Sslv Basic Loo",
+        "category": "inne"
+    },
+    {
+        "id": "37c44ad5-9c87-44b1-a358-063496d87ecc",
+        "product": "46975 Koszulki dziewczece Sslv Basic T-U",
+        "category": "inne"
+    },
+    {
+        "id": "60fd38a8-72e4-4106-84aa-2dcff454d46e",
+        "product": "11056 Spodenki damskie Lg Green Bermuda",
+        "category": "inne"
+    },
+    {
+        "id": "a416530e-45f6-45a3-89ea-b520b07f95c0",
+        "product": "11001 Spodenki damskie blk bermuda short",
+        "category": "inne"
+    },
+    {
+        "id": "efc6025a-12dc-4f80-9aef-0e65805538e5",
+        "product": "37801 Bag small",
+        "category": "inne"
+    },
+    {
+        "id": "37dc2787-bd63-46db-adc9-0cac0059738f",
+        "product": "Bu SZNYTKA 60g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "fbde5506-d135-47b5-98d6-17c9f8da11c5",
+        "product": "KAN FIRMOWA 170g",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "7efeee6f-0095-472d-87f4-150828f7d65a",
+        "product": "NAPOJ JOGURT JOVI",
+        "category": "nabial"
+    },
+    {
+        "id": "b3a98ec2-77f4-40b7-8eed-d223efea8d2d",
+        "product": "SMOOTHIE ŻÓŁTE 250ml",
+        "category": "nabial"
+    },
+    {
+        "id": "eba41b4e-1b58-4a83-96d8-167face06985",
+        "product": "WODA KRYNICZANKA 0,5l",
+        "category": "nabial"
+    },
+    {
+        "id": "d36ba2b7-9520-4477-a44c-2c528856515d",
+        "product": "JAGODZIANKA Kamczatka",
+        "category": "slodycze"
+    },
+    {
+        "id": "ffbfb138-a6ba-4296-9e19-b51afde4f92b",
+        "product": "JOGURT JOVI 350g",
+        "category": "nabial"
+    },
+    {
+        "id": "142d0312-b8cd-45eb-bc9e-e708976b9b33",
+        "product": "KAN FIRMOWA 170g",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "b30fb404-d9ae-4bde-9923-b74277dc3ef5",
+        "product": "Bu SZNYTKA 60g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "4d6db38a-cb6c-4062-8c02-f8e16b6a69dd",
+        "product": "PIWO LECH FREE ARBU",
+        "category": "napoje"
+    },
+    {
+        "id": "de2a78b1-9564-47af-8700-7a3b2a3c2f22",
+        "product": "KURCZAK CHRUPIĄ",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "8e11e275-10ac-453c-abba-ec7ca7820850",
+        "product": "ZAMIANA FRYTKI",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "6aa17a7c-d8ff-43a0-8154-74bea7865fb7",
+        "product": "OPAKOWANIE",
+        "category": "inne"
+    },
+    {
+        "id": "30a1eacc-3319-46eb-be9c-caa3c5141c63",
+        "product": "TOREBKA",
+        "category": "inne"
+    },
+    {
+        "id": "3962c418-92f3-4798-839d-9a362587a28c",
+        "product": "NAPOJ JOGURT JOVI",
+        "category": "nabial"
+    },
+    {
+        "id": "f7964298-baf8-4861-be71-7e2c4a0d43a2",
+        "product": "WAF KUK CZEK 33g",
+        "category": "slodycze"
+    },
+    {
+        "id": "80355f7b-4124-4125-9562-b9958c00fdf8",
+        "product": "SOK TYMBARK 1l",
+        "category": "napoje"
+    },
+    {
+        "id": "6d7835f3-f34c-4ac4-aa72-9ad2003edcc3",
+        "product": "SOK TYMBARK 1l",
+        "category": "napoje"
+    },
+    {
+        "id": "d44df90a-a840-4b3c-8ae4-a5109a1002c6",
+        "product": "LODY KAKTUS 45ml",
+        "category": "slodycze"
+    },
+    {
+        "id": "5ccfd30d-9639-4a32-931c-069224835a61",
+        "product": "PIWO ŻYWIEC",
+        "category": "alkohole"
+    },
+    {
+        "id": "999357e8-9ba4-4328-a87a-67767dddffff",
+        "product": "LODY KAKTUS 45ml",
+        "category": "slodycze"
+    },
+    {
+        "id": "082636e0-cae9-4df4-a2ca-10c8e51b6c2a",
+        "product": "WODA ALCALIA 1l",
+        "category": "woda"
+    },
+    {
+        "id": "fd6f9bd6-9c3c-45a2-9872-58a730a73972",
+        "product": "KAN Z WOŁOWIA 220g",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "22683f65-a2b9-4735-9084-d7add1654eca",
+        "product": "Bu SZNYTKA 60g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "1abd0189-b373-4fb0-acee-9cd169124c99",
+        "product": "Kebab Roll Standard z kurczakiem",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "110f8d49-434c-434e-b259-3484c4dbc1eb",
+        "product": "1_22Frytki Steakhouse 150g",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "42db591a-4194-4391-94c4-0538a6170bbe",
+        "product": "0_1660Opakowanie",
+        "category": "inne"
+    },
+    {
+        "id": "f4b1c5c8-5423-4ec5-85fd-45571bfa43bf",
+        "product": "Jaja W Wyb M10szt",
+        "category": "nabial"
+    },
+    {
+        "id": "34eda806-8fa9-452d-bac9-c944798160c8",
+        "product": "WodaNGaz Muszy1,5l",
+        "category": "woda"
+    },
+    {
+        "id": "712f69ca-f993-45d7-9e0b-c8d5a4c95143",
+        "product": "MakŚwiderLubel400g",
+        "category": "sypkie"
+    },
+    {
+        "id": "72001c87-d151-4a4f-a587-c146b44fbab4",
+        "product": "PodpFeminUltrSuper1",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "20119a79-0ce3-468e-96cc-8182ad24bc63",
+        "product": "JogPitFruPure250g",
+        "category": "nabial"
+    },
+    {
+        "id": "c8f50cf1-1b37-4548-bd5a-c06af4511d22",
+        "product": "SerHomoPiątMix150g",
+        "category": "nabial"
+    },
+    {
+        "id": "2fa36f7d-fa8e-4efa-9080-f3c9df0afb12",
+        "product": "PapiNawQUEENzihe1",
+        "category": "chemia"
+    },
+    {
+        "id": "16e52fa5-6d4c-424f-a787-016c6894346b",
+        "product": "Z ros kur wol wyKg",
+        "category": "mieso"
+    },
+    {
+        "id": "6459fbc9-c1b2-44ef-bcc1-d1a04dc4dee2",
+        "product": "PłynLindaGoatMil1,3l",
+        "category": "kosmetyki"
+    },
+    {
+        "id": "021bc0c3-8842-4def-ad3a-3948eb217431",
+        "product": "Mozzar light 125g",
+        "category": "nabial"
+    },
+    {
+        "id": "224a9837-dd6d-4bd4-a654-d4b889415413",
+        "product": "KulkiGorzCzek40g",
+        "category": "slodycze"
+    },
+    {
+        "id": "f20914c9-ad0f-4f6b-bc91-1a590ed5745c",
+        "product": "Pod kur wol wyb kg",
+        "category": "mieso"
+    },
+    {
+        "id": "7826858d-7531-4962-b339-bfc7a303c5f5",
+        "product": "Por Luz",
+        "category": "warzywa"
+    },
+    {
+        "id": "7f57ad35-ba1e-4644-838d-dfd847a42fb1",
+        "product": "Rzodkiewka szt",
+        "category": "warzywa"
+    },
+    {
+        "id": "e74d399a-dbba-4847-8cb3-26cfe29a808a",
+        "product": "PietruszkaLuz",
+        "category": "warzywa"
+    },
+    {
+        "id": "e2e47925-1efb-43fc-a1fe-9f2a2f181dc6",
+        "product": "Ogórek grunt luz",
+        "category": "warzywa"
+    },
+    {
+        "id": "423a1089-b9d9-4fd2-b69b-004e4f64ea79",
+        "product": "Zupa pom orzo 450g",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "ad7de183-38a5-44a2-9822-9bf1c938cf8f",
+        "product": "Pom Paprycz Luz",
+        "category": "warzywa"
+    },
+    {
+        "id": "d172c02d-ef1e-43e2-b90b-a887e83d96f1",
+        "product": "Jogurt Nat 190g",
+        "category": "nabial"
+    },
+    {
+        "id": "f170b127-1a52-46bb-a501-71ba3b2f346b",
+        "product": "Włoszcz młoda 500g",
+        "category": "nabial"
+    },
+    {
+        "id": "a12331e2-6cf1-4d98-991b-006079d01f78",
+        "product": "Cytryna luz",
+        "category": "owoce"
+    },
+    {
+        "id": "de4469a4-f9e0-44c1-837f-110a5d9109c5",
+        "product": "Cebula Żółta Luz",
+        "category": "warzywa"
+    },
+    {
+        "id": "39ff41ca-1db0-4275-aafc-df48040efca0",
+        "product": "SałPocketVF2x50g",
+        "category": "warzywa"
+    },
+    {
+        "id": "b97e06b7-c4ac-48a9-a4bb-ee925ccac049",
+        "product": "Jogurt Nat 190g",
+        "category": "nabial"
+    },
+    {
+        "id": "622c2702-7455-424e-8c62-5ac19e5819ea",
+        "product": "Win Jas Bez Luz",
+        "category": "owoce"
+    },
+    {
+        "id": "322bdb49-1ddc-4202-a346-8cefee5a3864",
+        "product": "KANAPKA MARS 28g",
+        "category": "slodycze"
+    },
+    {
+        "id": "9ee5d2c3-a42c-4e3e-a780-ca4c3069909d",
+        "product": "LODY KAKTUS 45ml",
+        "category": "slodycze"
+    },
+    {
+        "id": "3434ea67-d7cd-4100-a50e-36cd672c88e2",
+        "product": "NAPOJ OSHEE 555ml",
+        "category": "napoje"
+    },
+    {
+        "id": "64f1b30e-d94c-4890-94af-8523a90a8f75",
+        "product": "BATON KINDER 28g",
+        "category": "slodycze"
+    },
+    {
+        "id": "809c34a5-8f32-46dd-98f8-c68d6d89cfed",
+        "product": "KAN Z KRAKOWSKA 230",
+        "category": "dania gotowe"
+    },
+    {
+        "id": "ba814ee3-db2b-4706-a9f9-f62cb9ccbf23",
+        "product": "Bu SZNYTKA 60g",
+        "category": "pieczywo"
+    },
+    {
+        "id": "dd6e257e-2cb0-4c2d-bc69-a090180ca266",
+        "product": "JOGURT JOVI 350g",
+        "category": "nabial"
+    },
+    {
+        "id": "17d272f2-f153-48cd-a938-1cc24744377b",
+        "product": "Elmex Sens Pł Ust",
+        "category": "kosmetyki"
+    }
+]
